@@ -1,6 +1,6 @@
 @echo off
 chcp 65001
-title CmdOS 24.12.30
+title CmdOS 30.12.24
 if not exist os goto key
 goto startup
 
