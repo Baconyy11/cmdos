@@ -24,7 +24,7 @@ A: There may be a message like that or a Windows smart screen message. Please no
 
 # Changelog
 
-**Beta 24.12.30**
+**Beta 30.12.24**
 
 
 Added setup, calculator, settings, and documents. Please notice that documents is a work in progress and has major glitches.
